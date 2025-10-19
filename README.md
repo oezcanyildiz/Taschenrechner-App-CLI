@@ -46,4 +46,4 @@ Taschenrechner-App-CLI/
 🌟 Autor
 
 Özcan Yildiz
-👉 GitHub-Profil
+👉 GitHub-Profil => https://github.com/oezcanyildiz/
